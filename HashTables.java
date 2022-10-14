@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//ghalat
 public class HashTables {
 //Variable Declaration
 	ArrayList<ArrayList<HashNode>> arr = new ArrayList<ArrayList<HashNode>>();
